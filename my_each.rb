@@ -9,4 +9,4 @@ end
 array
 end
 
-my_each(array)
+my_each
