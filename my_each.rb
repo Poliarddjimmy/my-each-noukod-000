@@ -8,5 +8,3 @@ def my_each(array) # put argument(array) here
 end
 array
 end
-
-my_each
